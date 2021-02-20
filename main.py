@@ -15,7 +15,7 @@ def check():
         time.sleep(0.1)
     bar.finish()
     clear()
-    print(f"{Fore.RED} Info for current IP is: {Info}{Fore.RED}")
+    print(f"{Fore.YELLOW}Info for current IP is:{Fore.YELLOW} {Fore.RED}{Info}{Fore.RED}")
 
 if __name__ == "__check__":
    check()
