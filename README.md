@@ -1,2 +1,2 @@
 # IP-Status
-bare simple was bored. Could use to see if your VPN is working
+Simple method to retrieve current ip details; can also be used to check validity of VPN (ratelimits will occur)
